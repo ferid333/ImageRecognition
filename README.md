@@ -7,11 +7,8 @@ A simple Python program using artificial intelligence libraries to recognize num
 
 To use this code, you'll need to install [Python](https://www.python.org/downloads/) and several libraries. You can install them using `pip` command:
 
-```pip install numpy
-pip install Image
-pip install os
-pip install keras
-pip install tensorflow
+```
+pip install -r requirements.txt
 ```
 
 >**Note:** Use cmd in administrator mode for installation
